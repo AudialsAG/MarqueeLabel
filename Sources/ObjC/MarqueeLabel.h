@@ -288,6 +288,8 @@ IB_DESIGNABLE
 
 @property (nonatomic, readonly) NSTimeInterval animationDuration;
 
+@property (nonatomic, assign) IBInspectable BOOL forceScrolling;
+
 
 
 ////////////////////////////////////////////////////////////////////////////////
